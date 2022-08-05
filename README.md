@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/wyarejali" target="blank"><img src="https://img.shields.io/twitter/follow/wyarejali?logo=twitter&style=for-the-badge" alt="wyarejali" /></a> </p>
 
-- 🔭 Upwork & Fiverr [https://abmfamilylaw.com/](https://travelbyjohn.net/)
+- 🔭 Upwork & Fiverr [abmfamily.com](https://abmfamilylaw.com/) [Travelbyjohn](https://travelbyjohn.net/)
 
 - 🌱 MERN STACK **Learning React**
 
@@ -39,3 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wyarejali&show_icons=true&locale=en" alt="wyarejali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wyarejali&" alt="wyarejali" /></p>
+ 

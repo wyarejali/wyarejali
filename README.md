@@ -22,8 +22,3 @@
 - Tailwindcss
 - Metarial UI
 - WordPress
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyarejali&show_icons=true&locale=en&layout=compact" alt="wyarejali" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wyarejali&show_icons=true&locale=en" alt="wyarejali" /></p>

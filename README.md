@@ -3,14 +3,14 @@
 ## Thanks for visit my profile. I'm a Front-end developer
 
 ### How to reach me:
-- Website: https://wyarejali.com
+- Website: https://wyarejali.vercel.app
 - FaceBook: https://facebook.com/wyarejali
 - LinkedIn: https://linkedin.com/in/wyarejali
 - Twitter: https://twitter.com/wyarejali
 - Email: [wyarejali@gmail.com](mailto:wyarejali@gmail.com)
 
 ### My CV/Resume
-- [Website](https://wyarejali.com/resume)
+- [Website](https://wyarejali.vercel.app)
 - [Google Drive](https://drive.google.com/file/d/1F9tvsRgnFczCArDRLyzYlwe7LPDeaPcY/view?usp=sharing)
 
 ### Languages, Library, Tools:

@@ -6,13 +6,13 @@ I love to learn new technology and addicted to code :)
 
 ### How to reach me:
 - Website: https://wyarejali.vercel.app
+- Showwcase: https://www.showwcase.com/wyarejali
 - FaceBook: https://facebook.com/wyarejali
 - LinkedIn: https://linkedin.com/in/wyarejali
 - Twitter: https://twitter.com/wyarejali
 - Email: [wyarejali@gmail.com](mailto:wyarejali@gmail.com)
 
 ### My CV/Resume
-- [Website](https://wyarejali.vercel.app)
 - [Google Drive](https://drive.google.com/file/d/1F9tvsRgnFczCArDRLyzYlwe7LPDeaPcY/view?usp=sharing)
 
 ### Languages, Library, Tools:

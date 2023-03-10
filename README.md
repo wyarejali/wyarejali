@@ -1,4 +1,4 @@
-![cover Image](https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/324789779_503236315203233_5145146951728377571_n.png?stp=dst-png_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_ohc=9A-Pi45zK0cAX98aA49&_nc_ht=scontent.fdac22-1.fna&oh=00_AfA8FEgY8W6mttIucIRXTWgJnSIUlsUH8q6j3md2nWdXFA&oe=63D99A96)
+![cover Image](https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/324789779_503236315203233_5145146951728377571_n.png?stp=dst-png_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_ohc=eRK0zU8ppJsAX_Is3SD&_nc_ht=scontent.fdac22-1.fna&oh=00_AfBu7SXfiwcAuqUFJaoG2ImV14bu8Eeg99cyoPfpR2PJPQ&oe=6410F996)
 # Hi 👋, I'm Wyarej Ali
 A self-taught front-end developer. I started learning web development for curiosity, and now it's my profession. I have started as a WordPress developer and completed 450+ project over the world. Since 2022, I have started learning ReactJS and built some app you will find here [Portfolios](https://wyarejali.vercel.app/)
 

@@ -1,26 +1,61 @@
-![cover Image](https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/324789779_503236315203233_5145146951728377571_n.png?stp=dst-png_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_ohc=eRK0zU8ppJsAX_Is3SD&_nc_ht=scontent.fdac22-1.fna&oh=00_AfBu7SXfiwcAuqUFJaoG2ImV14bu8Eeg99cyoPfpR2PJPQ&oe=6410F996)
-# Hi 👋, I'm Wyarej Ali
-A self-taught front-end developer. I started learning web development for curiosity, and now it's my profession. I have started as a WordPress developer and completed 450+ project over the world. Since 2022, I have started learning ReactJS and built some app you will find here [Portfolios](https://wyarejali.vercel.app/)
+# Hi, I'm Wyarej Ali 👋
+### WordPress Developer | 1000+ Projects Delivered
 
-I love to learn new technology and addicted to code :)
+I'm a professional WordPress developer with hands-on experience building custom themes, plugins, and business websites for clients worldwide. I focus on clean code, pixel-perfect design, and scalable WordPress solutions.
 
-### How to reach me:
-- Website: https://wyarejali.vercel.app
-- Showwcase: https://www.showwcase.com/wyarejali
-- FaceBook: https://facebook.com/wyarejali
-- LinkedIn: https://linkedin.com/in/wyarejali
-- Twitter: https://twitter.com/wyarejali
-- Email: [wyarejali@gmail.com](mailto:wyarejali@gmail.com)
+---
 
-### My CV/Resume
-- [Google Drive](https://drive.google.com/file/d/1F9tvsRgnFczCArDRLyzYlwe7LPDeaPcY/view?usp=sharing)
+## 🛠️ Skills & Tools
 
-### Languages, Library, Tools:
-- JavaScipt
-- React.js
-- Node.js
-- MongoDB
-- Express
-- Tailwindcss
-- Metarial UI
-- WordPress
+**Core**
+`PHP` `MySQL` `JavaScript` `HTML5` `CSS3`
+
+**WordPress**
+`Custom Theme Development` `Plugin Development` `Gutenberg / Block Editor` `WP REST API` `WP CLI` `Custom Post Types` `Custom Taxonomies` `Hooks & Filters`
+
+**Page Builders & Frameworks**
+`Divi Theme` `Elementor` `ACF (Advanced Custom Fields)`
+
+**eCommerce**
+`WooCommerce`
+
+---
+
+## 💼 Services
+
+| Service | Description |
+|---|---|
+| 🌐 Custom Website Development | Business websites tailored to your brand and goals |
+| 🎨 Custom Theme Development | Fully custom WordPress themes from scratch or child themes |
+| 🔌 Plugin Development | Custom plugins built to extend your site's functionality |
+| 🛒 WooCommerce Store | Complete eCommerce setup, customization & optimization |
+| ⚡ Speed Optimization | Improve performance and Core Web Vitals scores |
+| 🐛 Bug Fixing | Diagnose and fix WordPress issues quickly |
+| 🔄 Site Migration | Safe migration between hosts or domain transfers |
+| 🛡️ Maintenance | Regular updates, backups, and ongoing support |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=wyarejali&show_icons=true&theme=default&hide=contribs&count_private=true" alt="Wyarej Ali GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyarejali&layout=compact&theme=default&hide=javascript,typescript,css,html,shell" alt="Top Languages" />
+</p>
+
+---
+
+## 📬 Get in Touch
+
+- 🌐 Website: [wyarejali.vercel.app](https://wyarejali.vercel.app)
+- 💼 LinkedIn: [linkedin.com/in/wyarejali](https://linkedin.com/in/wyarejali)
+- 🐦 Twitter / X: [@wyarejali](https://twitter.com/wyarejali)
+- 📘 Facebook: [facebook.com/wyarejali](https://facebook.com/wyarejali)
+- 📧 Email: [wyarejali@gmail.com](mailto:wyarejali@gmail.com)
+
+---
+
+<p align="center">💡 Open to freelance projects — <a href="mailto:wyarejali@gmail.com">let's work together!</a></p>
